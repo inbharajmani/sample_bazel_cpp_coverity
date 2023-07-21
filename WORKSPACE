@@ -5,4 +5,3 @@ http_archive(
 )
 
 load("@rules_coverity//coverity:repositories.bzl", "rules_coverity_toolchains")
-rules_coverity_toolchains()
