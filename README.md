@@ -4,7 +4,7 @@ This is a sample C++ project uses bazel build system.
 
 ## Prerequisites
 - To build this example project install bazel using official docs [here](https://bazel.build/install).
-- Coverity analysis version 2022.3.0
+- Coverity analysis version 2023.6.0
 - Modify rules_coverity.tar.gz [absolute path](https://github.com/inbharajmani/sample_bazel_cpp_coverity/blob/14304ec5553982478d8c4e4d255c6da2c8ee8109/WORKSPACE#L4) according to your cov-analysis installed with having rules_coverity.tar.gz(otherwise coverity build will fail)
 
 ## Native Build
